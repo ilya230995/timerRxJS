@@ -1,0 +1,13 @@
+.controllers {
+  margin-bottom: 20px;
+}
+.btnCntr {
+  width: 170px;
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  text-transform: uppercase;
+}
+.btnCntr:not(:last-child) {
+  margin-right: 10px;
+}
